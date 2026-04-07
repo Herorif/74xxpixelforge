@@ -1,0 +1,16 @@
+*.bak
+*-backups/
+*~
+*.dsn
+*.ses
+fp-info-cache
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+**/gerbers/
