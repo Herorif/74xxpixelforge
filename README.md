@@ -217,14 +217,16 @@ project-74xxpixel-forge/
 
 ## License
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
+Hardware designs and associated source files are distributed under the CERN-OHL-W v2. See the [`LICENSE`](LICENSE) file for full legal details.
 
-Hardware designs are open source. Build one yourself.
+Copyright 2026 Ava
+
+This source describes Open Hardware. You may redistribute and modify this source and make products using it under the terms of the CERN Open Hardware Licence Version 2 (Weakly Reciprocal). Build one yourself.
 
 <br>
 
 ---
 
 <p align="center">
-  <sub>Built with 74xx logic, solder and stubbornness.</sub>
+  <sub>Built with 74xx logic, solder and boredom</sub>
 </p>
