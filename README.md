@@ -219,7 +219,7 @@ project-74xxpixel-forge/
 
 Hardware designs and associated source files are distributed under the CERN-OHL-W v2. See the [`LICENSE`](LICENSE) file for full legal details.
 
-Copyright 2026 Ava
+Copyright 2026 Herorif
 
 This source describes Open Hardware. You may redistribute and modify this source and make products using it under the terms of the CERN Open Hardware Licence Version 2 (Weakly Reciprocal). Build one yourself.
 
